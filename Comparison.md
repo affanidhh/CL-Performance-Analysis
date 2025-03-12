@@ -1,20 +1,18 @@
-# Comparative Analysis of PSG and Málaga CF in the 2012-2013 UEFA Champions League
+# Comparative Analysis of PSG, Manchester City, Chelsea FC, and RB Leipzig in the UEFA Champions League
 
 ## Overview
-This document compares the performances of Paris Saint-Germain (PSG) and Málaga Club de Fútbol (Málaga CF) in the 2012-2013 UEFA Champions League season.
+This document compares the performances of Paris Saint-Germain (PSG), Manchester City, Chelsea FC, and RB Leipzig in the UEFA Champions League from 2012 to 2023.
 
-## Key Metrics
-| Metric | PSG | Málaga CF |
-|--------|-----|-----------|
-| **Date of Creation** | 1970 | 1948 |
-| **Participation in Champions League** | Multiple seasons | First season |
-| **Goals Scored** | 22 | 14 |
-| **Expected Goals (xG)** | 18.5 | 12.3 |
-| **Top Scorer** | Zlatan Ibrahimović (10 goals) | Isco (3 goals) |
-| **Performance** | Quarter-finals | Quarter-finals |
-| **Probability of Winning** | 10% | 5% |
+## Goals Scored by Season
+![Goals Scored by Season](images/goals_scored_by_season.png)
+
+## Expected Goals (xG) by Season
+![Expected Goals by Season](images/expected_goals_by_season.png)
 
 ## Analysis
-- PSG had a higher number of goals scored and expected goals (xG) compared to Málaga CF.
-- Both teams reached the quarter-finals but were eliminated under different circumstances.
-- PSG had a slightly higher probability of winning the competition compared to Málaga CF due to their stronger squad and recent investments.
+- **PSG** has consistently scored a high number of goals with a significant peak in xG during the 2019-2020 season.
+- **Manchester City** has shown a steady increase in xG, culminating in a Champions League victory in 2022-2023.
+- **Chelsea FC** had varied performances with a notable peak in xG during their Champions League victory in 2020-2021.
+- **RB Leipzig** showed a rapid rise in performance, reaching the semi-finals in the 2019-2020 season.
+
+Detailed analysis of performance trends, strengths, and areas for improvement for each team.
