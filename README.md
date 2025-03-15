@@ -1,6 +1,6 @@
 # 🏆 Champions League Performance Analysis
 
-![UEFA Champions League](https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/UEFA_Champions_League_logo_2.svg/200px-UEFA_Champions_League_logo_2.svg.png)
+![UEFA Champions League](https://upload.wikimedia.org/wikipedia/en/b/bf/UEFA_Champions_League_logo_2.svg)
 
 ## 📄 Description
 
@@ -22,7 +22,7 @@ Les données sont présentées sous forme de **graphiques en barres et linéaire
 
 | PSG | Manchester City | Chelsea FC | RB Leipzig |
 |:-:|:-:|:-:|:-:|
-| ![PSG](https://iconduck.com/icons/166269) | ![Man City](https://iconduck.com/icons/166244) | ![Chelsea](https://iconduck.com/icons/166204) | ![RB Leipzig](https://iconduck.com/icons/166259) |
+| ![PSG](https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg) | ![Man City](https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg) | ![Chelsea](https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg) | ![RB Leipzig](https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg) |
 
 ---
 
