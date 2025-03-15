@@ -18,6 +18,14 @@ Les données sont présentées sous forme de **graphiques en barres et linéaire
 
 ---
 
+## ⚽ Clubs Analysés
+
+| PSG | Manchester City | Chelsea FC | RB Leipzig |
+|:-:|:-:|:-:|:-:|
+| ![PSG](https://iconduck.com/icons/166269) | ![Man City](https://iconduck.com/icons/166244) | ![Chelsea](https://iconduck.com/icons/166204) | ![RB Leipzig](https://iconduck.com/icons/166259) |
+
+---
+
 ## 🗂️ Contenu du Projet
 
 📂 **Données** : Fichiers structurés contenant les statistiques des équipes.  
