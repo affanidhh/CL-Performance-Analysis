@@ -1,128 +1,54 @@
 # 🏆 Champions League Performance Analysis
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/UEFA_Champions_League_logo.svg" alt="UEFA Champions League" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/UEFA_Champions_League_logo_2.svg" alt="UEFA Champions League" width="120"/>
 </p>
 
-## 📄 Description
+## 📖 Description
 
-### 🔹 Description Courte  
-Analyse détaillée des performances des clubs **PSG, Manchester City, Chelsea FC et RB Leipzig** en **Ligue des Champions** de 2012 à 2023, avec des **visualisations graphiques** des statistiques clés.  
+### 📌 Description Courte
+Analyse détaillée des performances des clubs **PSG**, **Manchester City**, **Chelsea FC** et **RB Leipzig** en **Ligue des Champions** de 2012 à 2023, avec des **visualisations graphiques** des statistiques clés.
 
-### 🔹 Description Détaillée  
-**Champions League Performance Analysis** est un projet qui compare les performances de **quatre grands clubs européens** en **Ligue des Champions de l’UEFA** sur une période de **2012 à 2023**. 📊⚽  
+### 📊 Description Détaillée
+**Champions League Performance Analysis** est un projet qui compare les performances de **quatre grands clubs européens** en **Ligue des Champions de l'UEFA** sur une période de **2012 à 2023**. ⚽📊
 
 Les statistiques analysées incluent :  
-✅ **Buts marqués** | 🎯 **Expected Goals (xG)** | 🔄 **Possession** | 🎯 **Passes complétées**  
-⚽ **Tirs et tirs cadrés** | 🛡️ **Tacles & interceptions** | 🟨🟥 **Cartons** | 🏃 **Distance parcourue**  
+✅ **Buts marqués** | 🔥 **Expected Goals (xG)** | 🔵 **Possession** | 🎯 **Passes complétées**  
+⚽ **Tirs & tirs cadrés** | 🛑 **Tacles & interceptions** | 🟨🟥 **Cartons** | 🏃‍♂️ **Distance parcourue**  
 
-Les données sont présentées sous forme de **graphiques en barres et linéaires**, permettant une **comparaison visuelle claire** des performances au fil des saisons. 📈  
+Les données sont présentées sous forme de **graphiques en barres et linéaires**, permettant une **comparaison visuelle claire** des performances au fil des saisons. 📊📉  
 
 ---
 
 ## ⚽ Clubs Analysés
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg" alt="PSG" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg" alt="Manchester City" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg" alt="Chelsea FC" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg" alt="RB Leipzig" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/Paris_Saint-Germain_Logo.svg/120px-Paris_Saint-Germain_Logo.svg.png" alt="PSG" width="80"/>  
+  <br>Paris Saint-Germain
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/120px-Manchester_City_FC_badge.svg.png" alt="Manchester City" width="80"/>  
+  <br>Manchester City
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/120px-Chelsea_FC.svg.png" alt="Chelsea FC" width="80"/>  
+  <br>Chelsea FC
+</p>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/120px-RB_Leipzig_2014_logo.svg.png" alt="RB Leipzig" width="80"/>  
+  <br>RB Leipzig
 </p>
 
 ---
 
-## 🗂️ Contenu du Projet
-
-📂 **Données** : Fichiers structurés contenant les statistiques des équipes.  
-📜 **Scripts** : Scripts Python pour traiter les données et générer des visualisations.  
-📊 **Visualisations** : Graphiques et diagrammes des statistiques clés.  
-📝 **Documentation** : Explication détaillée des performances et analyses comparatives.  
-
----
-
-## 📊 Exemples de Statistiques Visualisées
-
-- ⚽ **Buts marqués par saison**  
-- 🎯 **Expected Goals (xG) par saison**  
-- 🔄 **Possession moyenne par saison**  
-- 🎯 **Passes complétées par saison**  
-- 🥅 **Tirs et tirs cadrés par saison**  
-- 🛡️ **Tacles et interceptions**  
-- 🟨🟥 **Cartons jaunes et rouges**  
-- 🏃 **Distance parcourue par saison**  
-
----
-
 ## 🎯 Objectifs
-
-✅ **Comparer les performances des clubs en Ligue des Champions**.  
-✅ **Identifier les points forts et les axes d’amélioration pour chaque équipe**.  
-✅ **Offrir des visualisations interactives et informatives** pour mieux comprendre les performances.  
-
----
-
-## 🚀 Installation
-
-### 📌 Prérequis  
-Assurez-vous d’avoir **Python 3.x** installé sur votre machine.
-
-### 📥 Étapes d’Installation
-
-1️⃣ **Clonez** ce dépôt :  
-   ```sh
-   git clone https://github.com/affanidhh/Champions-League-Performance-Analysis.git
-   ```  
-2️⃣ **Accédez au dossier** du projet :  
-   ```sh
-   cd Champions-League-Performance-Analysis
-   ```  
-3️⃣ (Optionnel) **Créez un environnement virtuel** :  
-   ```sh
-   python -m venv env
-   source env/bin/activate  # Windows : env\Scripts\activate
-   ```  
-4️⃣ **Installez les dépendances** :  
-   ```sh
-   pip install -r requirements.txt
-   ```  
+✅ **Fournir une analyse comparative** des performances des clubs en Ligue des Champions.  
+📊 **Identifier les points forts et les axes d’amélioration** pour chaque équipe.  
+📈 **Créer des visualisations claires et informatives** pour mieux comprendre les tendances.
 
 ---
 
-## ▶️ Utilisation
-
-1️⃣ **Exécutez le script principal** pour analyser les données :  
-   ```sh
-   python analyze_performance.py
-   ```  
-2️⃣ **Visualisez les graphiques générés** dans le dossier `outputs/`.  
-
----
-
-## 🤝 Contribution
-
-Les contributions sont **les bienvenues** ! 🚀  
-
-1️⃣ **Forkez** ce dépôt.  
-2️⃣ **Créez une branche** pour vos améliorations :  
-   ```sh
-   git checkout -b feature/ma-nouvelle-analyse
-   ```  
-3️⃣ **Commitez vos changements** :  
-   ```sh
-   git commit -m "Ajout d'une nouvelle analyse"
-   ```  
-4️⃣ **Poussez** vers votre dépôt forké :  
-   ```sh
-   git push origin feature/ma-nouvelle-analyse
-   ```  
-5️⃣ **Ouvrez une Pull Request** sur GitHub.  
-
----
-
-## 📜 Licence
-
-📄 Ce projet est sous **licence MIT**. Consultez le fichier `LICENSE` pour plus de détails.  
-
----
-
-🔥 **Plongez dans les performances des meilleurs clubs d’Europe en Ligue des Champions !** 🏆📊  
+🚀 **Amusez-vous en explorant les statistiques et les tendances des plus grands clubs européens !** 🔥⚽  
