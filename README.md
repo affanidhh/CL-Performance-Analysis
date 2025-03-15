@@ -1,7 +1,7 @@
 # 🏆 Champions League Performance Analysis
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/b/bf/UEFA_Champions_League_logo_2.svg" alt="UEFA Champions League" width="200"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/UEFA_Champions_League_logo.svg" alt="UEFA Champions League" width="200"/>
 </p>
 
 ## 📄 Description
