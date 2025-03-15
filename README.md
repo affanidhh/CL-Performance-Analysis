@@ -1,6 +1,8 @@
 # 🏆 Champions League Performance Analysis
 
-![UEFA Champions League](https://upload.wikimedia.org/wikipedia/en/b/bf/UEFA_Champions_League_logo_2.svg)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/bf/UEFA_Champions_League_logo_2.svg" alt="UEFA Champions League" width="200"/>
+</p>
 
 ## 📄 Description
 
@@ -20,9 +22,12 @@ Les données sont présentées sous forme de **graphiques en barres et linéaire
 
 ## ⚽ Clubs Analysés
 
-| PSG | Manchester City | Chelsea FC | RB Leipzig |
-|:-:|:-:|:-:|:-:|
-| ![PSG](https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg) | ![Man City](https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg) | ![Chelsea](https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg) | ![RB Leipzig](https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg) |
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg" alt="PSG" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg" alt="Manchester City" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg" alt="Chelsea FC" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg" alt="RB Leipzig" width="100"/>
+</p>
 
 ---
 
@@ -42,8 +47,8 @@ Les données sont présentées sous forme de **graphiques en barres et linéaire
 - 🔄 **Possession moyenne par saison**  
 - 🎯 **Passes complétées par saison**  
 - 🥅 **Tirs et tirs cadrés par saison**  
-- 🛡️ **Tacles et interceptions par saison**  
-- 🟨🟥 **Cartons jaunes et rouges par saison**  
+- 🛡️ **Tacles et interceptions**  
+- 🟨🟥 **Cartons jaunes et rouges**  
 - 🏃 **Distance parcourue par saison**  
 
 ---
